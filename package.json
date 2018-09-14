@@ -9,6 +9,7 @@
   "keywords": [],
   "author": "Onwukike Ibe <oibe@uber.com>",
   "main": "./dist/src/index.js",
+  "files": ["dist", "src", "node_modules"],
   "repository": {
     "type": "git",
     "url": "git://github.com/jaegertracing/jaeger-client-node.git"
